@@ -24,13 +24,17 @@ Before you start, ensure you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DevOpsKit.git
+   https://github.com/dipu-devops/DevOpsKit.git
    cd DevOpsKit
    ```
 
 2. Run the installation script:
    ```bash
+   chmod +x install.sh
+   
    bash install.sh
+         or
+   sudo ./install
    ```
 
 3. Follow the prompts to select and install the desired tool.
