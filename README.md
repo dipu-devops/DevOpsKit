@@ -1,9 +1,5 @@
 # DevOpsKit
 
-```bash
-figlet "DevOpsKit" | lolcat
-```
-
 Welcome to **DevOpsKit** by **Deep Singh**. This project is designed to help you easily install various DevOps tools on your Ubuntu machine.
 
 ## Features
